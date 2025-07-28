@@ -4,5 +4,5 @@ El proyecto es de anomalías en equipos industriales. Para más información, di
 
 
 <hr>
-Última modificación 202528072040 vpalma
+vpalma
 
